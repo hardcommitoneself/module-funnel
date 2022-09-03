@@ -1,15 +1,15 @@
 {
-  "name": "module",
-  "version": "1.2.5",
-  "description": "Generate the minimal skeleton/boilerplate for a new Node.js module.",
-  "author": "Luke Horvat",
+  "name": "module-funnel",
+  "version": "1.0.0",
+  "description": "Generate the minimal skeleton/boilerplate for a new Node.js module. for Funnel",
+  "author": "David Tremblay",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukehorvat/module.git"
+    "url": "https://github.com/hardcommitoneself/module-funnel.git"
   },
   "bugs": {
-    "url": "https://github.com/lukehorvat/module/issues"
+    "url": "https://github.com/hardcommitoneself/module-funnel/issues"
   },
   "main": "./dist/index.js",
   "bin": "./dist/cli.js",
@@ -23,7 +23,7 @@
     "lodash.template": "4.2.4",
     "map-stream": "0.0.6",
     "tildify": "1.2.0",
-    "vinyl-fs": "2.4.3",
+    "vinyl-fs": "3.0.3",
     "yargs": "4.6.0"
   },
   "devDependencies": {
